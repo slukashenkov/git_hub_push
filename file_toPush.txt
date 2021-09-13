@@ -1,3 +1,7 @@
-first push test
+
+1) additions to see concurency:wq
+
+
+0) first push test
 test
 test
