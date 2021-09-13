@@ -1,4 +1,3 @@
-
 2) rebase example: the change made on main 
 
 1) some changes for local commit
