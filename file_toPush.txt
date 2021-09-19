@@ -1,3 +1,6 @@
+2) LOcal brach pust after cloning main and switching 
+from detached head
+
 push_test
 second push test
 
