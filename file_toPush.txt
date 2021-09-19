@@ -1,7 +1,16 @@
+2) LOcal brach pust after cloning main and switching 
+from detached head
+
+push_test
+second push test
+
+first push test
+=======
 
 1) additions to see concurency:wq
 
 
 0) first push test
+main
 test
 test
