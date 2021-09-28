@@ -4,6 +4,8 @@ from detached head
 push_test
 second push test
 first push test
+3) non conflicting changes on the concurrent branch
+
 2) non conflicting changes on the concurrent branch
 
 1) additions to see concurency:wq
