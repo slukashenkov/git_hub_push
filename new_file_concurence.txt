@@ -1,4 +1,8 @@
-
 1) some chnges for local commit
+
+2) rebase example: the change made on main 
+
+1) some changes for local commit
+
 
 0) addition as a file
